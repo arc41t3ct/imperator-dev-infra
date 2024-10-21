@@ -1,3 +1,3 @@
-db-data/mariadb/*
-db-data/postgres/*
-db-data/redis/*
+db-data/mariadb/**
+db-data/postgres/**
+db-data/redis/**
